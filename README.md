@@ -12,6 +12,7 @@ Studying: Degree of Bachelor of Science with a major in Computer Engineering.
 - Python
 - Java
 - CasparCG
+- CSGO.GSI
 
 ### 🚀 I have experience doing
 - Media production
