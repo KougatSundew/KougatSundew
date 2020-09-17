@@ -6,7 +6,8 @@ Studying: Degree of Bachelor of Science with a major in Computer Engineering.
 ![](https://komarev.com/ghpvc/?username=KougatSundew)
 ### ⚙️ I have experience using
 - Linux
-- C++/C#
+- C++
+- C#/ASP.net
 - HTML,CSS & Javascript/Node.js
 - Python
 - Java
