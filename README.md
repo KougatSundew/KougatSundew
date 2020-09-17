@@ -1,4 +1,17 @@
 ### Hi there 👋
+Loves programming ✨✨
+Studying: Bachelor of Science with a major in Computer Engineering.
+![](https://komarev.com/ghpvc/?username=KougatSundew)
+### ⚙️ I have experience using
+- Linux
+- C++/C#
+- HTML,CSS & Javascript/Node.js
+- Python
+- Java
+- CasparCG
+🚀 I have experience doing
+- Media production
+- Programming
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KougatSundew)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KougatSundew/KougatSundew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
