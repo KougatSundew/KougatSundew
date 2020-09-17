@@ -11,7 +11,7 @@ Studying: Bachelor of Science with a major in Computer Engineering.
 - Java
 - CasparCG
 
-🚀 I have experience doing
+### 🚀 I have experience doing
 - Media production
 - Programming
 
