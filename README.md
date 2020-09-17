@@ -1,6 +1,7 @@
 ### Hi there 👋
 Loves programming ✨✨
-Studying: Bachelor of Science with a major in Computer Engineering.
+
+Studying: Degree of Bachelor of Science with a major in Computer Engineering.
 
 ![](https://komarev.com/ghpvc/?username=KougatSundew)
 ### ⚙️ I have experience using
